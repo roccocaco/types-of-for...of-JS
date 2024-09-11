@@ -1,6 +1,6 @@
 # Tipos de For...Of JS
 
-O `for...of` em JavaScript é uma ferramenta versátil para iteração sobre diferentes tipos de coleções. Com ele, você pode acessar argumentos de funções, percorrer elementos de arrays e strings, e iterar sobre valores únicos em `Set`s. Também é útil para manipular pares chave-valor em `Map`s, e elementos de `NodeList`, além de processar resultados de `Promises` com `for await...of`. Em resumo, `for...of` facilita a iteração direta e eficiente sobre qualquer coleção que seja iterável, tornando o trabalho com dados mais intuitivo e organizado.
+O `for...of`  pode acessar argumentos de funções, percorrer elementos de arrays e strings, e iterar sobre valores únicos em `Set`s. Também é útil para manipular pares chave-valor em `Map`s, e elementos de `NodeList`, além de processar resultados de `Promises` com `for await...of`. Em resumo, `for...of` facilita a iteração direta e eficiente sobre qualquer coleção que seja iterável, tornando o trabalho com dados mais intuitivo e organizado.
 
 ## Acessando Argumentos de Função com `for...of`*
 
